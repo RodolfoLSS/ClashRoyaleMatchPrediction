@@ -1,2 +1,3 @@
-# ClashRoyaleMatchPrediction
-Predict the result of a Clash Royale match.
+# Clash Royale Matches 
+
+Scrapping data of Clash Royale matches and generating a dataset.
